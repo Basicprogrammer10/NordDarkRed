@@ -1,0 +1,53 @@
+{
+    "name": "Nord Red Dark Theme",
+    "author": "Connor Slade",
+    "manifest_version": 2,
+    "version": "1.0.0",
+    "theme": {
+        "colors": {
+            "frame": "#2E3440",
+            "frame_inactive": "#2E3440",
+
+            "tab_text": "#ECEFF4",
+            "tab_background_text": "#B9BEC7",
+            "tab_background_separator": "#909090",
+
+            "tab_line": "#BF616A",
+            "tab_loading": "#BF616A",
+            "icons_attention": "#BF616A",
+
+            "toolbar": "#292E39",
+            "toolbar_top_separator": "#292E39",
+            "toolbar_bottom_separator": "#292E39",
+            "toolbar_vertical_separator": "#292E39",
+
+            "toolbar_field": "#242933",
+            "toolbar_field_text": "#C8C8C8",
+            "toolbar_field_border": "#242933",
+            "toolbar_field_separator": "#1E1E1E",
+
+            "toolbar_field_focus": "#242933",
+            "toolbar_field_border_focus": "#1E1E1E",
+
+            "button_background_hover": "#353535",
+            "button_background_active": "#424242",
+            "icons": "#A9A9A9",
+            "bookmark_text": "#AAAAAA",
+
+            "popup": "#242933",
+            "popup_text": "#C8C8C8",
+            "popup_border": "#242933",
+            "popup_highlight": "#21252B",
+            "popup_highlight_text": "#FFFFFF",
+
+            "ntp_background": "#242933",
+            "ntp_text": "#AAAAAA",
+
+            "sidebar": "#292E39",
+            "sidebar_text": "#AAAAAA",
+            "sidebar_border": "#242933",
+            "sidebar_highlight": "#21252b",
+            "sidebar_highlight_text": "#AAAAAA"
+        }
+    }
+}
