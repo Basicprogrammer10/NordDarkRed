@@ -2,7 +2,7 @@
     "name": "Nord Red Dark Theme",
     "author": "Connor Slade",
     "manifest_version": 2,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "theme": {
         "colors": {
             "frame": "#2E3440",
