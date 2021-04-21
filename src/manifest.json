@@ -5,8 +5,8 @@
     "version": "1.0.1",
     "theme": {
         "colors": {
-            "frame": "#2E3440",
-            "frame_inactive": "#2E3440",
+            "frame": "#373E4C",
+            "frame_inactive": "#373E4C",
 
             "tab_text": "#ECEFF4",
             "tab_background_text": "#B9BEC7",
